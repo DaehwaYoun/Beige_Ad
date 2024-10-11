@@ -3,6 +3,13 @@ This repository provides codes to review or reproduce results of "Cross-talks be
 
 Updated : 2024. 10. 11.
 
+In the below table, 
+* S means Extended Data Figure.
+* L means the left subpanel.
+* R means the rght subpanel.
+* T means the upper (top) subpanel.
+* B means the lower (bottom) subpanel.
+
 Figure|Path
 ---|---
 1A|(Experimental result & Manually drawn)
