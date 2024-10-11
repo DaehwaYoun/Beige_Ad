@@ -10,9 +10,13 @@ Analyses in this repository were performed with following packages.
 * pandas = 1.5.2
 * numpy = 1.23.4
 * scipy = 1.9.3
+* scikit-learn = 1.2.2
+* statsmodels = 0.13.5
 * seaborn = 0.13.2
 * matplotlib = 3.8.4
 * matplotlib-venn = 0.11.7
+* pycirclize = 1.3.0
+* gseapy = 1.0.6
 
 Analyses with edgeR were performed with following packages
 * R = 4.3.2
