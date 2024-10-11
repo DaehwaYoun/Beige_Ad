@@ -1,7 +1,22 @@
 # Cross-talks between Metabolic and Translational Controls during Beige Adipocyte Differentiation
+**Daehwa Youn<sup>1,5</sup>**, Boseon Kim2,3,5, Dahee Jeong1,3,5, Ju Yeon Lee4, Seha Kim1, Dulguun Sumberzul1, Rehna Paula Ginting2,3, Min-Woo Lee2,3, ​​Ju Hwan Song4, Ye Seul Park4, Yumin Kim1, Chang-Myung Oh1, Mihye Lee2,3*†, and Jun Cho1*†
+1 Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju 61005, Republic of Korea.
+2 Soonchunhyang Institute of Medi-bio Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.
+3 Department of Integrated Biomedical Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.
+4 Digital Omics Research Center, Korea Basic Science Institute, Ochang 28119, Republic of Korea.
+5 These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.
+* Corresponding authors.
+† e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
+
+
+
 This repository provides codes to review or reproduce results of "Cross-talks between Metabolic and Translational Controls during Beige Adipocyte Differentiation".
 
 Updated : 2024. 10. 11.
+
+
+## Datasets
+All raw RNA-seq and Ribo-seq data files were deposited in the Gene Expression Omnibus under the accession number GSE247715, and all raw mass spectrometry data files were deposited at MassIVE under the accession number MSV000093396. Tables including raw counts, normlised expression levels, and fold changes were provided as supplementary tables.
 
 
 ## Dependencies
