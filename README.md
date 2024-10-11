@@ -79,7 +79,7 @@ S4F|/Results/Plots/Ribosome_stalling/v20240327/Martinez-Xie_top5pct-stalling-sco
 5B|/Results/Experiments/Gln-Glu-assay/Received_20230808/v20240413/Glu-Gln-assay_barplot.ipynb
 5C|/Results/Experiments/tRNA charging assay/Received_20231128/v20240413/tRNA-charging-assay_barplot.ipynb
 5D|(Experimental result)
-5E_L|(Experimental result)
+5E_L|(Experimental result & Manually drawn)
 5E_R|/Results/Experiments/Reporter assay/Received_20240807/v20240922/Glu-Ala_Tet-DOX-BPTES_reporter.ipynb
 5F|/Results/Plots/Glu_starvation/Glu-related_genes/Reid_2017/v20241009/Reid_Glu-related_logFC_barplot.ipynb
 5G|/Results/Plots/Glu_starvation/scRNAseq/scHeatmap/v20240423/Emont_scHeatmap.ipynb
