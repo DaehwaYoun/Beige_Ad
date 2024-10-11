@@ -3,8 +3,9 @@ This repository provides codes to review or reproduce results of "Cross-talks be
 
 Updated : 2024. 10. 11.
 
+
 ## Dependencies
-* Analyses in this repository were performed with following packages.
+Analyses in this repository were performed with following packages.
 * python = 3.9.16
 * pandas = 1.5.2
 * numpy = 1.23.4
@@ -20,6 +21,7 @@ Analyses with edgeR were performed with following packages
 Analyses of single-cell transcriptome were performed with following packages
 * R = 4.2.0
 * Seurat = 4.3.0.1
+
 
 ## Code location for figures
 
