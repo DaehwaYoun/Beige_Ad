@@ -43,7 +43,7 @@ Analyses of single-cell transcriptome were performed with following packages
 * Seurat = 4.3.0.1
 
 
-## Code location for figures
+## Location of codes for figures
 
 In the below table, 
 * S means Extended Data Figure.
