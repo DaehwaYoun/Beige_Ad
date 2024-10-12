@@ -48,7 +48,7 @@ Analyses of single-cell transcriptome were performed with following packages
 In the below table, 
 * S means Extended Data Figure.
 * L means the left subpanel.
-* R means the rght subpanel.
+* R means the right subpanel.
 * T means the upper (top) subpanel.
 * B means the lower (bottom) subpanel.
 
