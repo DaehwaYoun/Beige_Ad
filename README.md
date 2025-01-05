@@ -46,7 +46,7 @@ Analyses of single-cell transcriptome were performed with following packages
 ## Location of codes for figures
 
 In the below table, 
-* S means Extended Data Figure.
+* S means Supplementary Figures.
 * L means the left subpanel.
 * R means the right subpanel.
 * T means the upper (top) subpanel.
