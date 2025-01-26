@@ -118,8 +118,8 @@ S3F|/Results/Plots/Mitochondria/violin_box_kde/v20240827/Martinez-mito_TCA-PTexp
 4G|/Results/Plots/Codon_analysis/metagene_around_codon/v20241010_metaAA/adi_metaAA_plot.ipynb
 4H|/Results/Plots/Gene_coverage/v20230725/Tef_gene_coverage_plot.ipynb
 4I|/Results/Plots/Ribosome_stalling/v20240423/comp_top5pct-stalling-score_AA-count_swarm.ipynb
-S4A|/Results/Plots/Codon_analysis/codon_usage_change_barplot/classic/v20240325/AAcodon_usage_dPCT_barplot.ipynb
-S4B|/Results/Plots/Codon_analysis/codon_usage_change_barplot/classic/v20240325/codon_usage_dPCT_barplot.ipynb
+S4A|/Results/Plots/Codon_analysis/Subseq_abund_shift/v20250126/Subsequence abundance shift_AA_barplot.ipynb
+S4B|/Results/Plots/Codon_analysis/Subseq_abund_shift/v20250126/Subsequence abundance shift_codon_barplot.ipynb
 S4C|/Results/Plots/Codon_analysis/metagene_around_codon/v20241010/adi_metacodon_plot.ipynb
 S4D|/Results/Plots/Codon_analysis/metagene_around_codon/v20241010/adi_metacodon_plot.ipynb
 S4E|/Results/Plots/Gene_coverage/v20230725/Tef_gene_coverage_plot.ipynb
