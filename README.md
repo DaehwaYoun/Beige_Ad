@@ -13,7 +13,7 @@
 ## Introduction
 This repository provides codes to review or reproduce results of "Cross-talks between Metabolic and Translational Controls during Beige Adipocyte Differentiation".
 
-Updated : 2025. 3. 1.
+Updated : 2025. 3. 2.
 
 
 ## Datasets
