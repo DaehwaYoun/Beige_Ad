@@ -1,19 +1,20 @@
 # Cross-talks between Metabolic and Translational Controls during Beige Adipocyte Differentiation
-**Daehwa Youn<sup>1,5</sup>**, **Boseon Kim<sup>2,3,5</sup>**, **Dahee Jeong<sup>1,3,5</sup>**, **Ju Yeon Lee<sup>4</sup>**, **Seha Kim<sup>1</sup>**, **Dulguun Sumberzul<sup>1</sup>**, **Rehna Paula Ginting<sup>2,3</sup>**, **Min-Woo Lee<sup>2,3</sup>**, **Ju Hwan Song<sup>4</sup>**, **Ye Seul Park<sup>4</sup>**, **Yumin Kim<sup>1</sup>**, **Chang-Myung Oh<sup>1</sup>**, **Mihye Lee<sup>2,3†‡</sup>**, and <b>Jun Cho<sup>1†‡</sup></b>
+**Daehwa Youn<sup>1,†</sup>**, **Boseon Kim<sup>2,3,†</sup>**, **Dahee Jeong<sup>1,3,†</sup>**, **Ju Yeon Lee<sup>4</sup>**, **Seha Kim<sup>1</sup>**, **Dulguun Sumberzul<sup>1</sup>**, **Rehna Paula Ginting<sup>2,3</sup>**, **Min-Woo Lee<sup>2,3</sup>**, **Ju Hwan Song<sup>4</sup>**, **Ye Seul Park<sup>4</sup>**, **Yumin Kim<sup>1</sup>**, **Chang-Myung Oh<sup>1</sup>**, <b>Mihye Lee<sup>2,3*</sup></b>, and <b>Jun Cho<sup>1*</sup></b>
 
 <sup>1</sup> Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju 61005, Republic of Korea.
 <sup>2</sup> Soonchunhyang Institute of Medi-bio Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.
 <sup>3</sup> Department of Integrated Biomedical Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.
 <sup>4</sup> Digital Omics Research Center, Korea Basic Science Institute, Ochang 28119, Republic of Korea.
-<sup>5</sup> These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.
-<sup>†</sup> Corresponding authors.
-<sup>‡</sup> e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
+
+<sup>*</sup> Corresponding authors.
+<sup>†</sup> These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.
+  e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
 
 
 ## Introduction
 This repository provides codes to review or reproduce results of "Cross-talks between Metabolic and Translational Controls during Beige Adipocyte Differentiation".
 
-Updated : 2025. 3. 2.
+Updated : 2025. 3. 3.
 
 
 ## Datasets
