@@ -17,7 +17,7 @@ Updated : 2025. 3. 3.
 
 
 ## Datasets
-All raw RNA-seq and Ribo-seq data files were deposited in the Gene Expression Omnibus under the accession number GSE247715, and all raw mass spectrometry data files were deposited at MassIVE under the accession number MSV000093396. Tables including raw counts, normlised expression levels, and fold changes were provided as supplementary tables.
+All raw RNA-seq and Ribo-seq data files have been deposited in Gene Expression Omnibus under the accession code GSE247715, and all raw mass spectrometry data files have been deposited at MassIVE under the accession code MSV000093396. Publicly available datasets used in this study were downloaded from Gene Expression Omnibus and MassIVE under the accession code GSE8910833, GSE19810934, GSE17617145, and MSV00008902234. Tables including raw counts, normlised expression levels, and fold changes were provided as Supplementary Data.
 
 
 ## Dependencies
