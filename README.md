@@ -2,11 +2,11 @@
 **Daehwa Youn<sup>1,†</sup>**, **Boseon Kim<sup>2,3,†</sup>**, **Dahee Jeong<sup>1,2,3,†</sup>**, **Ju Yeon Lee<sup>4</sup>**, **Seha Kim<sup>1</sup>**, **Dulguun Sumberzul<sup>1</sup>**, **Rehna Paula Ginting<sup>2,3</sup>**, **Min-Woo Lee<sup>2,3</sup>**, **Ju Hwan Song<sup>4</sup>**, **Ye Seul Park<sup>4</sup>**, **Yumin Kim<sup>1</sup>**, **Chang-Myung Oh<sup>1</sup>**, <b>Mihye Lee<sup>2,3*</sup></b>, and <b>Jun Cho<sup>1*</sup></b>
 
 <sup>1</sup> Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju 61005, Republic of Korea.<br />
-<sup>2</sup> Soonchunhyang Institute of Medi-bio Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.__
-<sup>3</sup> Department of Integrated Biomedical Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.__
+<sup>2</sup> Soonchunhyang Institute of Medi-bio Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.<br />
+<sup>3</sup> Department of Integrated Biomedical Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.<br />
 <sup>4</sup> Digital Omics Research Center, Korea Basic Science Institute, Ochang 28119, Republic of Korea.
 
-<sup>†</sup> These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.__
+<sup>†</sup> These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.<br />
 <sup>*</sup> Corresponding authors. e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
 
 
