@@ -6,11 +6,9 @@
 <sup>3</sup> Department of Integrated Biomedical Science, Soonchunhyang University, Cheonan 31151, Republic of Korea.
 <sup>4</sup> Digital Omics Research Center, Korea Basic Science Institute, Ochang 28119, Republic of Korea.
 
-<sup>*</sup> Corresponding authors.
-
 <sup>†</sup> These authors contributed equally: Daehwa Youn, Boseon Kim, Dahee Jeong.
 
-  e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
+<sup>*</sup> Corresponding authors. e-mail: mihyelee@sch.ac.kr; juncho@gist.ac.kr
 
 
 ## Introduction
